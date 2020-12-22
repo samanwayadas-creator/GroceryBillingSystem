@@ -2,7 +2,7 @@
 
 This is a grocery billing system project demonstarting object oriented programming.
 
-Whereas features have been added, wherein the person or the owner can create new products, delete the existing products, add the quanity, query.
+Various features have been added, wherein the person or the owner can create new products, delete the existing products, add the quanity, query.
 
 All of the above functionality has been achieved by using object oriented programming paradigm.
 
